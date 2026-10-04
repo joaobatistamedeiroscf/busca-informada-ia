@@ -80,7 +80,7 @@ Utilize as três instâncias abaixo.
 |:-:|:-:|:-:|
 | 1 | 5 | 2 |
 | 4 | 8 | 3 |
-| 7 | 6 | _ |
+| _ | 7 | 6|
 
 ### Instância B — intermediária
 
@@ -88,7 +88,7 @@ Utilize as três instâncias abaixo.
 |:-:|:-:|:-:|
 | 5 | 8 | 2 |
 | 1 | 7 | 3 |
-| 4 | 6 | _ |
+| _ | 4 | 6 |
 
 ### Instância C — difícil
 
@@ -96,7 +96,7 @@ Utilize as três instâncias abaixo.
 |:-:|:-:|:-:|
 | 8 | 7 | 2 |
 | 5 | 4 | 3 |
-| 1 | 6 | _ |
+| _ | 1 | 6 |
 
 ---
 
